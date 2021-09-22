@@ -24,4 +24,12 @@ http://cdn.boxter.live:8081/cine/SPACE/playlist.m3u8
 http://cdn.boxter.live:8081/cine/TNT_SERIES/playlist.m3u8
 #EXTINF:-1, STAR ACCION
 http://cdn.boxter.live:8081/cine/STAR_ACTION/playlist.m3u8
+#EXTINF:-1, CINEMAX
+http://158.69.62.208:8081/live/CINEMAX/chunks.m3u8
+#EXTINF:-1, SPACE
+http://158.69.62.208:8081/live/SPACE_HD/chunks.m3u8
+#EXTINF:-1, TNT SERIES
+http://158.69.62.208:8081/live/TNT_SERIES_HD/chunks.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,
