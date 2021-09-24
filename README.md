@@ -49,3 +49,253 @@ http://89.163.242.136:25461/fernando/fernando/22171?token=TEdRVxJZEgNGWAUHAVEOBw
 #EXTINF:-1, SIMPSON
 http://51.161.116.55:25461/fernando/fernando/34308?token=TEdRVxJZEgNGAgQPBQMOUQ5VVQULUw4AUAdaAwJSXVQCUAFTUAVRW1FDHRVAFUtVVlxuWlxEDQEGUghaGUYRQlIXZl8FEwobVlIABgVYGxwVRVheXUQNAwRSClEHXVUDBkkbRghVEgNGVQAEC0MVElJJRVZKCFZebQVdFFwHARMNC0xaDR0SVgo+VVJeAFdUFQsTAxpKFVtBERpYWxEIXRtHW18VQ1FNAUMLFQJXDQMVHRNQVxNZRkAYGlgXKTwTG0dcThVUXkoNDl8VCUNNQxUdE1pLOUVXQRVKB1QJAUMVXxsGQx0SVAUZblRcD1dVVEVYXFYVFQgQUxpOFwkLX14RVkQ+QVldRlsTBQdZCRJK
 #EXTINF:-1, DE LAS LISTAS
+#EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| GENERAL #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| GENERAL #####
+http://tx.flysat.live:80/152092768382702/152007572592094/87047
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FORO TV" tvg-logo="" group-title="|LA| LATINO",|LATIN| FORO TV
+http://tx.flysat.live:80/152092768382702/152007572592094/87045
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TDN" tvg-logo="" group-title="|LA| LATINO",|LATIN| TDN
+http://tx.flysat.live:80/152092768382702/152007572592094/87044
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HOLA TV" tvg-logo="" group-title="|LA| LATINO",|LATIN| HOLA TV
+http://tx.flysat.live:80/152092768382702/152007572592094/87043
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINE LATINO" tvg-logo="" group-title="|LA| LATINO",|LATIN| CINE LATINO
+http://tx.flysat.live:80/152092768382702/152007572592094/87042
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| LIFETIME" tvg-logo="" group-title="|LA| LATINO",|LATIN| LIFETIME
+http://tx.flysat.live:80/152092768382702/152007572592094/87041
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MILENIO TV" tvg-logo="" group-title="|LA| LATINO",|LATIN| MILENIO TV
+http://tx.flysat.live:80/152092768382702/152007572592094/87040
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ARTS" tvg-logo="" group-title="|LA| LATINO",|LATIN| ARTS
+http://tx.flysat.live:80/152092768382702/152007572592094/87039
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| 52MX" tvg-logo="" group-title="|LA| LATINO",|LATIN| 52MX
+http://tx.flysat.live:80/152092768382702/152007572592094/87038
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AMERICATEVE" tvg-logo="" group-title="|LA| LATINO",|LATIN| AMERICATEVE
+http://tx.flysat.live:80/152092768382702/152007572592094/87037
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GLITZ" tvg-logo="" group-title="|LA| LATINO",|LATIN| GLITZ
+http://tx.flysat.live:80/152092768382702/152007572592094/87036
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TBS" tvg-logo="" group-title="|LA| LATINO",|LATIN| TBS
+http://tx.flysat.live:80/152092768382702/152007572592094/87035
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TELEMUNDO INTERNACIONAL" tvg-logo="" group-title="|LA| LATINO",|LATIN| TELEMUNDO INTERNACIONAL
+http://tx.flysat.live:80/152092768382702/152007572592094/87034
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIMAS" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNIMAS
+http://tx.flysat.live:80/152092768382702/152007572592094/87033
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ISAT" tvg-logo="" group-title="|LA| LATINO",|LATIN| ISAT
+http://tx.flysat.live:80/152092768382702/152007572592094/87032
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| PASIONES" tvg-logo="" group-title="|LA| LATINO",|LATIN| PASIONES
+http://tx.flysat.live:80/152092768382702/152007572592094/87031
+#EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| MOVIES #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| MOVIES #####
+http://tx.flysat.live:80/152092768382702/152007572592094/87030
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO
+http://tx.flysat.live:80/152092768382702/152007572592094/87029
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO 2" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO 2
+http://tx.flysat.live:80/152092768382702/152007572592094/87028
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO PLUS" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO PLUS
+http://tx.flysat.live:80/152092768382702/152007572592094/87027
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO FAMILY" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO FAMILY
+http://tx.flysat.live:80/152092768382702/152007572592094/87026
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO SIGNATURE" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO SIGNATURE
+http://tx.flysat.live:80/152092768382702/152007572592094/87025
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO ESTE" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO ESTE
+http://tx.flysat.live:80/152092768382702/152007572592094/87024
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM MOVIES" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM MOVIES
+http://tx.flysat.live:80/152092768382702/152007572592094/87023
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM CINEMA" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM CINEMA
+http://tx.flysat.live:80/152092768382702/152007572592094/87022
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM ACTION" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM ACTION
+http://tx.flysat.live:80/152092768382702/152007572592094/87021
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM COMEDY" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM COMEDY
+http://tx.flysat.live:80/152092768382702/152007572592094/87020
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM FAMILY" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM FAMILY
+http://tx.flysat.live:80/152092768382702/152007572592094/87019
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM SERIES" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM SERIES
+http://tx.flysat.live:80/152092768382702/152007572592094/87018
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVISION" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNIVISION
+http://tx.flysat.live:80/152092768382702/152007572592094/87017
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVISION TELENOVELAS" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNIVISION TELENOVELAS
+http://tx.flysat.live:80/152092768382702/152007572592094/87016
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TELENOVELAS" tvg-logo="" group-title="|LA| LATINO",|LATIN| TELENOVELAS
+http://tx.flysat.live:80/152092768382702/152007572592094/87015
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNICABLE" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNICABLE
+http://tx.flysat.live:80/152092768382702/152007572592094/87014
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TELEMUNDO" tvg-logo="" group-title="|LA| LATINO",|LATIN| TELEMUNDO
+http://tx.flysat.live:80/152092768382702/152007572592094/87013
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TLC" tvg-logo="" group-title="|LA| LATINO",|LATIN| TLC
+http://tx.flysat.live:80/152092768382702/152007572592094/87012
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SYFY" tvg-logo="" group-title="|LA| LATINO",|LATIN| SYFY
+http://tx.flysat.live:80/152092768382702/152007572592094/87011
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FX" tvg-logo="" group-title="|LA| LATINO",|LATIN| FX
+http://tx.flysat.live:80/152092768382702/152007572592094/87010
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX
+http://tx.flysat.live:80/152092768382702/152007572592094/87009
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX ACTION" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX ACTION
+http://tx.flysat.live:80/152092768382702/152007572592094/87008
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX CINEMA" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX CINEMA
+http://tx.flysat.live:80/152092768382702/152007572592094/87007
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX CLASSIC" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX CLASSIC
+http://tx.flysat.live:80/152092768382702/152007572592094/87006
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX LIFE" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX LIFE
+http://tx.flysat.live:80/152092768382702/152007572592094/87005
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX MOVIES" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX MOVIES
+http://tx.flysat.live:80/152092768382702/152007572592094/87004
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AMC" tvg-logo="" group-title="|LA| LATINO",|LATIN| AMC
+http://tx.flysat.live:80/152092768382702/152007572592094/87003
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AXN" tvg-logo="" group-title="|LA| LATINO",|LATIN| AXN
+http://tx.flysat.live:80/152092768382702/152007572592094/87002
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GALA TV" tvg-logo="" group-title="|LA| LATINO",|LATIN| GALA TV
+http://tx.flysat.live:80/152092768382702/152007572592094/87001
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVERSAL CHANNEL" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNIVERSAL CHANNEL
+http://tx.flysat.live:80/152092768382702/152007572592094/87000
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZ UNO" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZ UNO
+http://tx.flysat.live:80/152092768382702/152007572592094/86999
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZ MAS" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZ MAS
+http://tx.flysat.live:80/152092768382702/152007572592094/86998
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA 7" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZTECA 7
+http://tx.flysat.live:80/152092768382702/152007572592094/86997
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA CINEMA" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZTECA CINEMA
+http://tx.flysat.live:80/152092768382702/152007572592094/86996
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA CORAZON" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZTECA CORAZON
+http://tx.flysat.live:80/152092768382702/152007572592094/86995
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA CLIC" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZTECA CLIC
+http://tx.flysat.live:80/152092768382702/152007572592094/86994
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINE CANAL" tvg-logo="" group-title="|LA| LATINO",|LATIN| CINE CANAL
+http://tx.flysat.live:80/152092768382702/152007572592094/86993
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MULTIPREMIER" tvg-logo="" group-title="|LA| LATINO",|LATIN| MULTIPREMIER
+http://tx.flysat.live:80/152092768382702/152007572592094/86992
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DHE" tvg-logo="" group-title="|LA| LATINO",|LATIN| DHE
+http://tx.flysat.live:80/152092768382702/152007572592094/86991
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| WARNER CHANNEL" tvg-logo="" group-title="|LA| LATINO",|LATIN| WARNER CHANNEL
+http://tx.flysat.live:80/152092768382702/152007572592094/86990
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CLARO CINEMA" tvg-logo="" group-title="|LA| LATINO",|LATIN| CLARO CINEMA
+http://tx.flysat.live:80/152092768382702/152007572592094/86989
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOLDEN PREMIER" tvg-logo="" group-title="|LA| LATINO",|LATIN| GOLDEN PREMIER
+http://tx.flysat.live:80/152092768382702/152007572592094/86988
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| PARAMOUNT" tvg-logo="" group-title="|LA| LATINO",|LATIN| PARAMOUNT
+http://tx.flysat.live:80/152092768382702/152007572592094/86987
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SONY" tvg-logo="" group-title="|LA| LATINO",|LATIN| SONY
+http://tx.flysat.live:80/152092768382702/152007572592094/86986
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SPACE" tvg-logo="" group-title="|LA| LATINO",|LATIN| SPACE
+http://tx.flysat.live:80/152092768382702/152007572592094/86985
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| STUDIO UNIVERSAL" tvg-logo="" group-title="|LA| LATINO",|LATIN| STUDIO UNIVERSAL
+http://tx.flysat.live:80/152092768382702/152007572592094/86984
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TCM" tvg-logo="" group-title="|LA| LATINO",|LATIN| TCM
+http://tx.flysat.live:80/152092768382702/152007572592094/86983
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TNT SERIES" tvg-logo="" group-title="|LA| LATINO",|LATIN| TNT SERIES
+http://tx.flysat.live:80/152092768382702/152007572592094/86982
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TNT" tvg-logo="" group-title="|LA| LATINO",|LATIN| TNT
+http://tx.flysat.live:80/152092768382702/152007572592094/86981
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOLDEN EDGE" tvg-logo="" group-title="|LA| LATINO",|LATIN| GOLDEN EDGE
+http://tx.flysat.live:80/152092768382702/152007572592094/86980
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOLDEN" tvg-logo="" group-title="|LA| LATINO",|LATIN| GOLDEN
+http://tx.flysat.live:80/152092768382702/152007572592094/86979
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MAX UP" tvg-logo="" group-title="|LA| LATINO",|LATIN| MAX UP
+http://tx.flysat.live:80/152092768382702/152007572592094/86978
+#EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| ENTERTAINMENTS #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| ENTERTAINMENTS #####
+http://tx.flysat.live:80/152092768382702/152007572592094/86977
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINEMA DINAMITA" tvg-logo="" group-title="|LA| LATINO",|LATIN| CINEMA DINAMITA
+http://tx.flysat.live:80/152092768382702/152007572592094/86976
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| A&E" tvg-logo="" group-title="|LA| LATINO",|LATIN| A&E
+http://tx.flysat.live:80/152092768382702/152007572592094/86975
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MASCHIC" tvg-logo="" group-title="|LA| LATINO",|LATIN| MASCHIC
+http://tx.flysat.live:80/152092768382702/152007572592094/86974
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISTRITO COMEDIA" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISTRITO COMEDIA
+http://tx.flysat.live:80/152092768382702/152007572592094/86973
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| E! ENTERTAINMENT" tvg-logo="" group-title="|LA| LATINO",|LATIN| E! ENTERTAINMENT
+http://tx.flysat.live:80/152092768382702/152007572592094/86972
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TRU TV" tvg-logo="" group-title="|LA| LATINO",|LATIN| TRU TV
+http://tx.flysat.live:80/152092768382702/152007572592094/86971
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOURMET" tvg-logo="" group-title="|LA| LATINO",|LATIN| GOURMET
+http://tx.flysat.live:80/152092768382702/152007572592094/86970
+#EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| KIDS #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| KIDS #####
+http://tx.flysat.live:80/152092768382702/152007572592094/86969
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISNEY CHANNEL." tvg-logo="" group-title="|LA| LATINO",|LATIN| DISNEY CHANNEL.
+http://tx.flysat.live:80/152092768382702/152007572592094/86968
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISNEY JR" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISNEY JR
+http://tx.flysat.live:80/152092768382702/152007572592094/86967
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| NICK JR" tvg-logo="" group-title="|LA| LATINO",|LATIN| NICK JR
+http://tx.flysat.live:80/152092768382702/152007572592094/86966
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| NICK 2" tvg-logo="" group-title="|LA| LATINO",|LATIN| NICK 2
+http://tx.flysat.live:80/152092768382702/152007572592094/86965
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISNEY XD" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISNEY XD
+http://tx.flysat.live:80/152092768382702/152007572592094/86964
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| NICKELODEON" tvg-logo="" group-title="|LA| LATINO",|LATIN| NICKELODEON
+http://tx.flysat.live:80/152092768382702/152007572592094/86963
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| COMEDY CENTRAL" tvg-logo="" group-title="|LA| LATINO",|LATIN| COMEDY CENTRAL
+http://tx.flysat.live:80/152092768382702/152007572592094/86962
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| BOOMERANG" tvg-logo="" group-title="|LA| LATINO",|LATIN| BOOMERANG
+http://tx.flysat.live:80/152092768382702/152007572592094/86961
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CANAL 11" tvg-logo="" group-title="|LA| LATINO",|LATIN| CANAL 11
+http://tx.flysat.live:80/152092768382702/152007572592094/86960
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CANAL 5" tvg-logo="" group-title="|LA| LATINO",|LATIN| CANAL 5
+http://tx.flysat.live:80/152092768382702/152007572592094/86959
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CANAL DE LAS ESTRELLAS." tvg-logo="" group-title="|LA| LATINO",|LATIN| CANAL DE LAS ESTRELLAS.
+http://tx.flysat.live:80/152092768382702/152007572592094/86958
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CARTOON NETWORK" tvg-logo="" group-title="|LA| LATINO",|LATIN| CARTOON NETWORK
+http://tx.flysat.live:80/152092768382702/152007572592094/86957
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINE MAX" tvg-logo="" group-title="|LA| LATINO",|LATIN| CINE MAX
+http://tx.flysat.live:80/152092768382702/152007572592094/86956
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ONCE" tvg-logo="" group-title="|LA| LATINO",|LATIN| ONCE
+http://tx.flysat.live:80/152092768382702/152007572592094/86955
+#EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| DOCUMENTARY #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| DOCUMENTARY #####
+http://tx.flysat.live:80/152092768382702/152007572592094/86954
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| NAT GEO" tvg-logo="" group-title="|LA| LATINO",|LATIN| NAT GEO
+http://tx.flysat.live:80/152092768382702/152007572592094/86953
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| NAT GEO WILD" tvg-logo="" group-title="|LA| LATINO",|LATIN| NAT GEO WILD
+http://tx.flysat.live:80/152092768382702/152007572592094/86952
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY CHANNEL" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY CHANNEL
+http://tx.flysat.live:80/152092768382702/152007572592094/86951
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY INVESTIGATION" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY INVESTIGATION
+http://tx.flysat.live:80/152092768382702/152007572592094/86950
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY HOME&HEALTH" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY HOME&HEALTH
+http://tx.flysat.live:80/152092768382702/152007572592094/86949
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY KIDS" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY KIDS
+http://tx.flysat.live:80/152092768382702/152007572592094/86948
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY TURBO" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY TURBO
+http://tx.flysat.live:80/152092768382702/152007572592094/86947
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY THEATER" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY THEATER
+http://tx.flysat.live:80/152092768382702/152007572592094/86946
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY SCIENCE" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY SCIENCE
+http://tx.flysat.live:80/152092768382702/152007572592094/86945
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ANIMAL PLANET" tvg-logo="" group-title="|LA| LATINO",|LATIN| ANIMAL PLANET
+http://tx.flysat.live:80/152092768382702/152007572592094/86944
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HISTORY" tvg-logo="" group-title="|LA| LATINO",|LATIN| HISTORY
+http://tx.flysat.live:80/152092768382702/152007572592094/86943
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ID" tvg-logo="" group-title="|LA| LATINO",|LATIN| ID
+http://tx.flysat.live:80/152092768382702/152007572592094/86942
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| H2" tvg-logo="" group-title="|LA| LATINO",|LATIN| H2
+http://tx.flysat.live:80/152092768382702/152007572592094/86941
+#EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| SPORTS #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| SPORTS #####
+http://tx.flysat.live:80/152092768382702/152007572592094/86940
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPN" tvg-logo="" group-title="|LA| LATINO",|LATIN| ESPN
+http://tx.flysat.live:80/152092768382702/152007572592094/86939
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPN 2." tvg-logo="" group-title="|LA| LATINO",|LATIN| ESPN 2.
+http://tx.flysat.live:80/152092768382702/152007572592094/86938
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPN 3" tvg-logo="" group-title="|LA| LATINO",|LATIN| ESPN 3
+http://tx.flysat.live:80/152092768382702/152007572592094/86937
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX SPORT" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX SPORT
+http://tx.flysat.live:80/152092768382702/152007572592094/86936
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX SPORT 2" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX SPORT 2
+http://tx.flysat.live:80/152092768382702/152007572592094/86935
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVISION DEPORTES" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNIVISION DEPORTES
+http://tx.flysat.live:80/152092768382702/152007572592094/86934
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CLARO SPORT 2" tvg-logo="" group-title="|LA| LATINO",|LATIN| CLARO SPORT 2
+http://tx.flysat.live:80/152092768382702/152007572592094/86933
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| WIN SPORT HD" tvg-logo="" group-title="|LA| LATINO",|LATIN| WIN SPORT HD
+http://tx.flysat.live:80/152092768382702/152007572592094/86932
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CLARO SPORT" tvg-logo="" group-title="|LA| LATINO",|LATIN| CLARO SPORT
+http://tx.flysat.live:80/152092768382702/152007572592094/86931
+#EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| NEWS #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| NEWS #####
+http://tx.flysat.live:80/152092768382702/152007572592094/86930
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CNN" tvg-logo="" group-title="|LA| LATINO",|LATIN| CNN
+http://tx.flysat.live:80/152092768382702/152007572592094/86929
+#EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| MUSIC #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| MUSIC #####
+http://tx.flysat.live:80/152092768382702/152007572592094/86928
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| LATINOS1 HD" tvg-logo="" group-title="|LA| LATINO",|LATIN| LATINOS1 HD
+http://tx.flysat.live:80/152092768382702/152007572592094/86927
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HTV" tvg-logo="" group-title="|LA| LATINO",|LATIN| HTV
+http://tx.flysat.live:80/152092768382702/152007572592094/86926
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TUMUSICA" tvg-logo="" group-title="|LA| LATINO",|LATIN| TUMUSICA
+http://tx.flysat.live:80/152092768382702/152007572592094/86925
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MTV" tvg-logo="" group-title="|LA| LATINO",|LATIN| MTV
+http://tx.flysat.live:80/152092768382702/152007572592094/86924
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SUNDANCE" tvg-logo="" group-title="|LA| LATINO",|LATIN| SUNDANCE
+http://tx.flysat.live:80/152092768382702/152007572592094/86923
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| VH1" tvg-logo="" group-title="|LA| LATINO",|LATIN| VH1
+http://tx.flysat.live:80/152092768382702/152007572592094/86922
