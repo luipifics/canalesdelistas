@@ -319,3 +319,381 @@ http://163.172.47.195:25461/sSWbn9yq/czjBnrxr/43590?play_token=KNY2Xkmrq7&token=
 http://163.172.47.195:25461/sSWbn9yq/czjBnrxr/43625?play_token=zw3yZLX4OI&token=TxRbBBJdEwsbBVZWDlRdWAQHV1pUAAUNAQQDUwFVAAAABAFXWAcJVw8TGEdLRhdcV1o9UVERCAwHBAFRFBUTQFFEbAwFFwsTCgYCUQ8ARxUUQwtVUBEICQIBAVIJAVUGBhoRFQhREwtXRFgJFBAAQUJSEFZUX21cUURaB10VXF1BWl9JQ1pfbl1UWQRWVkcDFAZAFBdaQUgWCBEwV0MHXxRmXwQYFWVUVVRXClVHC1BVVgFRWl1XSxRhckRcUkZwYhQfRwNcRUNYRVFHAlwQVVobQFtaRlxMRksRXhp6PhEYFFYdFVBfQlBeWkcCEBFKFBtAUUZsQF1HRkEBWVoDQRYMEVVDGRNcWElrBldcC1xVQwtXW0AQAhYDEUgaWgldXUJcFz5FWFUbC1oQVF4Y
 #EXTINF:-1, STAR ACCION FHD
 http://163.172.47.195:25461/sSWbn9yq/czjBnrxr/43619?play_token=YncJBD5f0k&token=TxRbBBJdEwsbVAJXCFRcXVJSUlsEBgteUVNRVAgAXldSVwtRVgNSBV0TGEdLRhdcV1o9UVERCAwHBAJdFBUTQFFEbAwFFwsTCgYCUQ8ARxUUQwtVUBEICQIBAVIJAVMDBhoRFQhREwtXRFgJFBAAQUJSEFZUX21cUURaB10VXF1BWl9JQ1pfbl1UWQRWVkcDFAZAFBdaQUgWCBEwV0MHXxRmXwQYFWVUVVRXClVHC1BVVgFRWl1XSxRhckRcUkZwYhQfRwNcRUNYRVFHAlwQVVobQFtaRlxMRksRXhp6PhEYFFYdFVBfQlBeWkcCEBFKFBtAUUZsQF1HRkEBWVoDQRYMEVVDGRNcWElrBldcC1xVQwtXW0AQAhYDEUgaWgldXUJcFz5FWFUbC1oQVF4Y
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="" group-title="Argentina",A&E SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249071
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="" group-title="Argentina",AMC SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249070
+#EXTINF:-1 tvg-id="" tvg-name="A 24 SD" tvg-logo="" group-title="Argentina",A 24 SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249069
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV SD" tvg-logo="" group-title="Argentina",AMERICA TV SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249068
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="" group-title="Argentina",AXN SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249067
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG SD" tvg-logo="" group-title="Argentina",BOOMERANG SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249066
+#EXTINF:-1 tvg-id="" tvg-name="C5N SD" tvg-logo="" group-title="Argentina",C5N SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249065
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 SD" tvg-logo="" group-title="Argentina",CANAL 26 SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249064
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 SD" tvg-logo="" group-title="Argentina",CANAL 9 SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249063
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK SD" tvg-logo="" group-title="Argentina",CARTOON NETWORK SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249062
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL SD" tvg-logo="" group-title="Argentina",CINECANAL SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249061
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX DUAL AUDIO SD" tvg-logo="" group-title="Argentina",CINEMAX DUAL AUDIO SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249060
+#EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPANIOL SD" tvg-logo="" group-title="Argentina",CNN EN ESPANIOL SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249059
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="Argentina",COMEDY CENTRAL SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249058
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA SD" tvg-logo="" group-title="Argentina",CRONICA SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249057
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTV SD" tvg-logo="" group-title="Argentina",DEPORTV SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249056
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY SD" tvg-logo="" group-title="Argentina",DISNEY SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249055
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR SD" tvg-logo="" group-title="Argentina",DISNEY JUNIOR SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249054
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD SD" tvg-logo="" group-title="Argentina",DISNEY XD SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249053
+#EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="" group-title="Argentina",E! SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249052
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE SD" tvg-logo="" group-title="Argentina",EL TRECE SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249051
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="" group-title="Argentina",ESPN SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249050
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="" group-title="Argentina",ESPN 2 SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249049
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="" group-title="Argentina",ESPN 3 SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249048
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + SD" tvg-logo="" group-title="Argentina",ESPN + SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249047
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS SD" tvg-logo="" group-title="Argentina",FILM & ARTS SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249046
+#EXTINF:-1 tvg-id="" tvg-name="FOX SD" tvg-logo="" group-title="Argentina",FOX SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249045
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE SD" tvg-logo="" group-title="Argentina",STAR LIFE SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249044
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS SD" tvg-logo="" group-title="Argentina",FOX NEWS SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249043
+#EXTINF:-1 tvg-id="" tvg-name="STAR ACTION SD" tvg-logo="" group-title="Argentina",STAR ACTION SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249042
+#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA SD" tvg-logo="" group-title="Argentina",STAR CINEMA SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249041
+#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSICS SD" tvg-logo="" group-title="Argentina",STAR CLASSICS SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249040
+#EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY DUAL AUDIO SD" tvg-logo="" group-title="Argentina",STAR COMEDY DUAL AUDIO SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249039
+#EXTINF:-1 tvg-id="" tvg-name="STAR FUN FAMILY SD" tvg-logo="" group-title="Argentina",STAR FUN FAMILY SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249038
+#EXTINF:-1 tvg-id="" tvg-name="STAR FUN OESTE SD" tvg-logo="" group-title="Argentina",STAR FUN OESTE SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249037
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS SD" tvg-logo="" group-title="Argentina",STAR HITS SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249036
+#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES SD" tvg-logo="" group-title="Argentina",STAR SERIES SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249035
+#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES OESTE SD" tvg-logo="" group-title="Argentina",STAR SERIES OESTE SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249034
+#EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="" group-title="Argentina",FX SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249033
+#EXTINF:-1 tvg-id="" tvg-name="FXM SD" tvg-logo="" group-title="Argentina",FXM SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249032
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE SD" tvg-logo="" group-title="Argentina",GARAGE SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249031
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ SD" tvg-logo="" group-title="Argentina",GLITZ SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249030
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL SD" tvg-logo="" group-title="Argentina",GOLF CHANNEL SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249029
+#EXTINF:-1 tvg-id="" tvg-name="GOURMET SD" tvg-logo="" group-title="Argentina",GOURMET SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249028
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="" group-title="Argentina",H2 SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249027
+#EXTINF:-1 tvg-id="" tvg-name="HBO DUAL AUDIO SD" tvg-logo="" group-title="Argentina",HBO DUAL AUDIO SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249026
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 DUAL AUDIO SD" tvg-logo="" group-title="Argentina",HBO 2 DUAL AUDIO SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249025
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY DUAL AUDIO SD" tvg-logo="" group-title="Argentina",HBO FAMILY DUAL AUDIO SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249024
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS DUAL AUDIO SD" tvg-logo="" group-title="Argentina",HBO PLUS DUAL AUDIO SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249023
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SD" tvg-logo="" group-title="Argentina",HBO SIGNATURE SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249022
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY SD" tvg-logo="" group-title="Argentina",HISTORY SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249021
+#EXTINF:-1 tvg-id="" tvg-name="HTV SD" tvg-logo="" group-title="Argentina",HTV SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249020
+#EXTINF:-1 tvg-id="" tvg-name="I-SAT SD" tvg-logo="" group-title="Argentina",I-SAT SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249019
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC SD" tvg-logo="" group-title="Argentina",MAS CHIC SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249018
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI SD" tvg-logo="" group-title="Argentina",HBO MUNDI SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249017
+#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME SD" tvg-logo="" group-title="Argentina",HBO EXTREME SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249016
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP SD" tvg-logo="" group-title="Argentina",HBO POP SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249015
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="" group-title="Argentina",MTV SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249014
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS SD" tvg-logo="" group-title="Argentina",MTV HITS SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249013
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO SD" tvg-logo="" group-title="Argentina",NAT GEO SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249012
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD SD" tvg-logo="" group-title="Argentina",NAT GEO WILD SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249011
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS SD" tvg-logo="" group-title="Argentina",NATGEO KIDS SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249010
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD" tvg-logo="" group-title="Argentina",NICKELODEON SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249009
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON JR SD" tvg-logo="" group-title="Argentina",NICKELODEON JR SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249008
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT SD" tvg-logo="" group-title="Argentina",PARAMOUNT SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249007
+#EXTINF:-1 tvg-id="" tvg-name="QUIERO MUSICA SD" tvg-logo="" group-title="Argentina",QUIERO MUSICA SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249006
+#EXTINF:-1 tvg-id="" tvg-name="SONY SD" tvg-logo="" group-title="Argentina",SONY SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249005
+#EXTINF:-1 tvg-id="" tvg-name="SPACE SD" tvg-logo="" group-title="Argentina",SPACE SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249004
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="" group-title="Argentina",STUDIO UNIVERSAL SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249003
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="" group-title="Argentina",SYFY SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249002
+#EXTINF:-1 tvg-id="" tvg-name="TBS VERY FUNNY SD" tvg-logo="" group-title="Argentina",TBS VERY FUNNY SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249001
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="" group-title="Argentina",TCM SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/249000
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE SD" tvg-logo="" group-title="Argentina",TELEFE SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248999
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX SD" tvg-logo="" group-title="Argentina",TELEMAX SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248998
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SD" tvg-logo="" group-title="Argentina",TELEMUNDO SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248997
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR SD" tvg-logo="" group-title="Argentina",TELESUR SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248996
+#EXTINF:-1 tvg-id="" tvg-name="TIERRAMIA TV SD" tvg-logo="" group-title="Argentina",TIERRAMIA TV SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248995
+#EXTINF:-1 tvg-id="" tvg-name="TN TODO NOTICIAS SD" tvg-logo="" group-title="Argentina",TN TODO NOTICIAS SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248994
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="" group-title="Argentina",TNT SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248993
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES SD" tvg-logo="" group-title="Argentina",TNT SERIES SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248992
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD" tvg-logo="" group-title="Argentina",TOONCAST SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248991
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV SD" tvg-logo="" group-title="Argentina",TRUTV SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248990
+#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA SD" tvg-logo="" group-title="Argentina",TV PUBLICA SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248989
+#EXTINF:-1 tvg-id="" tvg-name="TVE SD" tvg-logo="" group-title="Argentina",TVE SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248988
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL SD" tvg-logo="" group-title="Argentina",UNIVERSAL SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248987
+#EXTINF:-1 tvg-id="" tvg-name="VH1 SD" tvg-logo="" group-title="Argentina",VH1 SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248986
+#EXTINF:-1 tvg-id="" tvg-name="VOLVER SD" tvg-logo="" group-title="Argentina",VOLVER SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248985
+#EXTINF:-1 tvg-id="" tvg-name="WARNER SD" tvg-logo="" group-title="Argentina",WARNER SD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248984
+#EXTINF:-1 tvg-id="" tvg-name="A&E DUAL AUDIO HD" tvg-logo="" group-title="Argentina",A&E DUAL AUDIO HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248983
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Argentina",AMC HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248982
+#EXTINF:-1 tvg-id="" tvg-name="A 24 HD" tvg-logo="" group-title="Argentina",A 24 HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248981
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV HD" tvg-logo="" group-title="Argentina",AMERICA TV HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248980
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA HD" tvg-logo="" group-title="Argentina",ARGENTINISIMA HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248979
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Argentina",AXN HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248978
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="" group-title="Argentina",BABY TV HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248977
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="Argentina",BOOMERANG HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248976
+#EXTINF:-1 tvg-id="" tvg-name="C5N HD" tvg-logo="" group-title="Argentina",C5N HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248975
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 HD" tvg-logo="" group-title="Argentina",CANAL 9 HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248974
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 HD" tvg-logo="" group-title="Argentina",CANAL 26 HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248973
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA MUSICA HD" tvg-logo="" group-title="Argentina",CANAL DE LA MUSICA HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248972
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="Argentina",CARTOON NETWORK HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248971
+#EXTINF:-1 tvg-id="" tvg-name="CINEAR HD" tvg-logo="" group-title="Argentina",CINEAR HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248970
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="" group-title="Argentina",CINECANAL HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248969
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="Argentina",CINEMAX HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248968
+#EXTINF:-1 tvg-id="" tvg-name="CIUDAD MAGAZINE HD" tvg-logo="" group-title="Argentina",CIUDAD MAGAZINE HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248967
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 (SAN LUIS) HD" tvg-logo="" group-title="Argentina",CANAL 13 (SAN LUIS) HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248966
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="" group-title="Argentina",CNN HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248965
+#EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPAÑOL HD" tvg-logo="" group-title="Argentina",CNN EN ESPAÑOL HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248964
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="Argentina",COMEDY CENTRAL HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248963
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA HD" tvg-logo="" group-title="Argentina",CRONICA HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248962
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTV HD" tvg-logo="" group-title="Argentina",DEPORTV HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248961
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY HD" tvg-logo="" group-title="Argentina",DISNEY HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248960
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="Argentina",DISNEY JUNIOR HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248959
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="" group-title="Argentina",DISNEY XD HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248958
+#EXTINF:-1 tvg-id="" tvg-name="DW HD" tvg-logo="" group-title="Argentina",DW HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248957
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="Argentina",E! HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248956
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE HD" tvg-logo="" group-title="Argentina",EL TRECE HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248955
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE INTERNACIONAL HD" tvg-logo="" group-title="Argentina",EL TRECE INTERNACIONAL HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248954
+#EXTINF:-1 tvg-id="" tvg-name="ENCUENTRO HD" tvg-logo="" group-title="Argentina",ENCUENTRO HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248953
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="Argentina",ESPN HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248952
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="Argentina",ESPN 2 HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248951
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="Argentina",ESPN 3 HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248950
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + HD" tvg-logo="" group-title="Argentina",ESPN + HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248949
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA HD" tvg-logo="" group-title="Argentina",EUROPA HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248948
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS HD" tvg-logo="" group-title="Argentina",FILM & ARTS HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248947
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="" group-title="Argentina",STAR CHANNEL HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248946
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE HD" tvg-logo="" group-title="Argentina",STAR LIFE HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248945
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD" tvg-logo="" group-title="Argentina",FOX NEWS HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248944
+#EXTINF:-1 tvg-id="" tvg-name="STAR ACTION HD" tvg-logo="" group-title="Argentina",STAR ACTION HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248943
+#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA HD" tvg-logo="" group-title="Argentina",STAR CINEMA HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248942
+#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSICS HD" tvg-logo="" group-title="Argentina",STAR CLASSICS HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248941
+#EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY HD" tvg-logo="" group-title="Argentina",STAR COMEDY HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248940
+#EXTINF:-1 tvg-id="" tvg-name="STAR FUN HD" tvg-logo="" group-title="Argentina",STAR FUN HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248939
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS HD" tvg-logo="" group-title="Argentina",STAR HITS HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248938
+#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES HD" tvg-logo="" group-title="Argentina",STAR SERIES HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248937
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Argentina",FX HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248936
+#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="" group-title="Argentina",FXM HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248935
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE HD" tvg-logo="" group-title="Argentina",GARAGE HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248934
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ HD" tvg-logo="" group-title="Argentina",GLITZ HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248933
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="" group-title="Argentina",GOLF CHANNEL HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248932
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="" group-title="Argentina",H2 HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248931
+#EXTINF:-1 tvg-id="" tvg-name="HBO DUAL AUDIO HD" tvg-logo="" group-title="Argentina",HBO DUAL AUDIO HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248930
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 DUAL AUDIO HD" tvg-logo="" group-title="Argentina",HBO 2 DUAL AUDIO HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248929
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY DUAL AUDIO HD" tvg-logo="" group-title="Argentina",HBO FAMILY DUAL AUDIO HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248928
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS DUAL AUDIO HD" tvg-logo="" group-title="Argentina",HBO PLUS DUAL AUDIO HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248927
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="Argentina",HBO SIGNATURE HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248926
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="" group-title="Argentina",HISTORY HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248925
+#EXTINF:-1 tvg-id="" tvg-name="HTV HD" tvg-logo="" group-title="Argentina",HTV HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248924
+#EXTINF:-1 tvg-id="" tvg-name="ISAT HD" tvg-logo="" group-title="Argentina",ISAT HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248923
+#EXTINF:-1 tvg-id="" tvg-name="KZO HD" tvg-logo="" group-title="Argentina",KZO HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248922
+#EXTINF:-1 tvg-id="" tvg-name="LA NACION HD" tvg-logo="" group-title="Argentina",LA NACION HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248921
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC HD" tvg-logo="" group-title="Argentina",MAS CHIC HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248920
+#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME HD" tvg-logo="" group-title="Argentina",HBO EXTREME HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248919
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="Argentina",HBO POP HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248918
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="Argentina",MTV HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248917
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS HD" tvg-logo="" group-title="Argentina",MTV HITS HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248916
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="Argentina",NAT GEO HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248915
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="Argentina",NAT GEO WILD HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248914
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD" tvg-logo="" group-title="Argentina",NATGEO KIDS HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248913
+#EXTINF:-1 tvg-id="" tvg-name="NET TV HD" tvg-logo="" group-title="Argentina",NET TV HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248912
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="Argentina",NICKELODEON HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248911
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON JR HD" tvg-logo="" group-title="Argentina",NICKELODEON JR HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248910
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="" group-title="Argentina",PARAMOUNT HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248909
+#EXTINF:-1 tvg-id="" tvg-name="QUIERO MUSICA HD" tvg-logo="" group-title="Argentina",QUIERO MUSICA HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248908
+#EXTINF:-1 tvg-id="" tvg-name="RAI HD" tvg-logo="" group-title="Argentina",RAI HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248907
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="" group-title="Argentina",SONY HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248906
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="Argentina",SPACE HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248905
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="" group-title="Argentina",STUDIO UNIVERSAL HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248904
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="Argentina",SYFY HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248903
+#EXTINF:-1 tvg-id="" tvg-name="TBS VERY FUNNY HD" tvg-logo="" group-title="Argentina",TBS VERY FUNNY HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248902
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="Argentina",TCM HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248901
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE HD" tvg-logo="" group-title="Argentina",TELEFE HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248900
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE INTERNACIONAL HD" tvg-logo="" group-title="Argentina",TELEFE INTERNACIONAL HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248899
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX HD" tvg-logo="" group-title="Argentina",TELEMAX HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248898
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HD" tvg-logo="" group-title="Argentina",TELEMUNDO HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248897
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR HD" tvg-logo="" group-title="Argentina",TELESUR HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248896
+#EXTINF:-1 tvg-id="" tvg-name="TIERRAMIA TV HD" tvg-logo="" group-title="Argentina",TIERRAMIA TV HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248895
+#EXTINF:-1 tvg-id="" tvg-name="TN TODO NOTICIAS HD" tvg-logo="" group-title="Argentina",TN TODO NOTICIAS HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248894
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Argentina",TNT HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248893
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="" group-title="Argentina",TNT SERIES HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248892
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="" group-title="Argentina",TOONCAST HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248891
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV HD" tvg-logo="" group-title="Argentina",TRUTV HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248890
+#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA HD" tvg-logo="" group-title="Argentina",TV PUBLICA HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248889
+#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="" group-title="Argentina",TVE HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248888
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD" tvg-logo="" group-title="Argentina",UNIVERSAL HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248887
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="Argentina",VH1 HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248886
+#EXTINF:-1 tvg-id="" tvg-name="VOLVER HD" tvg-logo="" group-title="Argentina",VOLVER HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248885
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="Argentina",WARNER HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248884
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA CIUDAD HD" tvg-logo="" group-title="Argentina",CANAL DE LA CIUDAD HD
+http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248883
