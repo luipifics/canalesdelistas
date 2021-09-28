@@ -698,4 +698,4 @@ http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248884
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA CIUDAD HD" tvg-logo="" group-title="Argentina",CANAL DE LA CIUDAD HD
 http://echootv.tv:2086/tigerjordan_z3inXi/HtFiKlZV/248883
 #EXTINF:-1, HENTAI
-http://pelicanhosting.xyz/Snow/Snow/482143
+http://tv.cruziptv.xdns.pro/TPRKzxPKxS070/zY2cRs435/46984
